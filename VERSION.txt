@@ -1,2 +1,2 @@
-v1.0.42-source.1
-source=286fb0e
+v1.0.44-source.1
+source=634c120
